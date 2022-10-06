@@ -1,0 +1,12 @@
+# Tutoriales R
+
+Estimado lector, en este repositorio iré subiendo a medida que los vaya generando, diferentes tutoriales de análisis de datos en R. Por lo general, estos son producto de algún proyecto o curso donde necesite replicar ejemplos, de modo que no tengo un orden particular para los temas. Los tutoriales son de libre acceso, además, trato de escribirlos en un lenguaje que, en lo posible, sea amigable y los haga un poco más fáciles de entender para todos.
+
+## Autor
+* Juan D. Vásquez-Restrepo ([@microteiido](https://twitter.com/microteiido))
+
+## Licencia
+
+Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0 Internacional</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
