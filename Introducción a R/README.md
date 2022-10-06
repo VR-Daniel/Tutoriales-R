@@ -4,7 +4,7 @@ En este tutorial veremos algunas cuestiones básicas de la programación en R. P
 
 Para abrir el tutorial en su versión web da clic [aquí](https://vr-daniel.github.io/Tutoriales-R/Introducción%20a%20R/docs/Introducción-a-R.html).
 
-Para descargar los archivos necesarios da clic [aquí](https://vr-daniel.github.io/Tutoriales-R/Introducción%20a%20R/files).
+Para descargar los archivos necesarios da clic [aquí](https://github.com/VR-Daniel/Tutoriales-R/raw/main/Introducci%C3%B3n%20a%20R/files/Introducci%C3%B3n%20a%20R%20(datos).rar).
 
 ## Requisitos
 
