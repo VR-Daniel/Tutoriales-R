@@ -1,27 +1,15 @@
-# Análisis de diversidad biológica usando R
+# Introducción a R
 
-¡Un pequeño mini curso de análisis de diversidad biológica, en español!
+En este tutorial veremos algunas cuestiones básicas de la programación en R. Por ejemplo, cómo crear variables en diferentes dimensiones, tipos de variables, cómo cargar datos externos, indexado, ciclos iterantes y condicionales, y algunas funciones que nos serán de mucha utilidad.
 
-## Descripción
+Para abrir el tutorial en su versión web da clic [aquí](https://vr-daniel.github.io/Tutoriales-R/Introducción%20a%20R/docs/Introducción-a-R.html).
 
-Este es un pequeño mini curso semidirigido de análisis de diversidad biológica, en el que abordaremos los fundamentos teóricos y prácticos detrás de los análisis de diversidad, los índices, estimadores, curvas de acumulación y rarefacción, diversidades verdaderas, y perfiles de diversidad.
-
-## Partes
-
-### Parte I
-
-[Fundamentos teóricos](https://vr-daniel.github.io/Tutoriales-R/Diversidad%20en%20R/docs/U1P1.html)
-
-### Parte II
-
-[Aplicando la teoría en R](https://vr-daniel.github.io/Tutoriales-R/Diversidad%20en%20R/docs/U1P2.html)
+Para descargar los archivos necesarios da clic [aquí](https://vr-daniel.github.io/Tutoriales-R/Introducción%20a%20R/files).
 
 ## Requisitos
 
-* Conocimientos básicos de ecología (preferiblemente intermedios o avanzados)
-* Conocimientos básicos de estadística (preferiblemente intermedios o avanzados)
-* R (preferiblemente integrado a RStudio)
-* Conocimientos básicos de programación en R (preferiblemente intermedios o avanzados)
+* R (preferiblemente versión 4.0.5)
+* R Studio
 
 ## Autor
 
