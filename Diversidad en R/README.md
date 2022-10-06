@@ -10,11 +10,11 @@ Este es un pequeño mini curso semidirigido de análisis de diversidad biológic
 
 ### Parte I
 
-[Fundamentos teóricos](https://vr-daniel.github.io/Diversidad-en-R/U1P1.html)
+[Fundamentos teóricos](https://vr-daniel.github.io/Tutoriales-R/Diversidad%20en%20R/docs/U1P1.html)
 
 ### Parte II
 
-[Aplicando la teoría en R](https://vr-daniel.github.io/Diversidad-en-R/U1P2.html)
+[Aplicando la teoría en R](https://vr-daniel.github.io/Tutoriales-R/Diversidad%20en%20R/docs/U1P2.html)
 
 ## Requisitos
 
