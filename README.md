@@ -12,6 +12,10 @@ Estimado lector, en este repositorio iré subiendo a medida que los vaya generan
 
 [Análisis de diversidad biológica](https://github.com/VR-Daniel/Tutoriales-R/tree/main/Diversidad%20en%20R)
 
+### Evaluación del riesgo de extinción UICN
+
+[Evaluación del riesgo de extinción UICN](https://github.com/VR-Daniel/Tutoriales-R/tree/main/Evaluaci%C3%B3n%20del%20riesgo%20de%20extinci%C3%B3n%20UICN)
+
 ## Autor
 * Juan D. Vásquez-Restrepo ([@microteiido](https://twitter.com/microteiido))
 
