@@ -515,7 +515,16 @@ sobreestimación.</p>
 hulls_sp &lt;- as(hulls, &quot;Spatial&quot;)
 
 # Load continental contour
-contour &lt;- readOGR(dsn = &quot;shapes&quot;, layer = &quot;America_MERGED&quot;)</code></pre>
+contour &lt;- readOGR(dsn = &quot;shapes&quot;, layer = &quot;America_MERGED&quot;)
+
+# Some people may experience issues when reading the contour.
+# This happens because readOGR is a function from the rgdal package,
+# which is no longer available in the official R repositories and can be
+# somewhat difficult to install manually.
+# Therefore, this function can be replaced with vect from the terra package,
+# followed by a transformation to the appropriate class needed.
+contour &lt;- vect(&quot;shapes/America_MERGED.shp&quot;)
+contour &lt;- as(contour, &quot;Spatial&quot;)</code></pre>
 <p>Por último, vamos a generar dos listas, cada una pensada para
 almacenar el resultado de las operaciones de agregación que
 realizaremos.</p>
