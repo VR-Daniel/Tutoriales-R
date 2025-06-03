@@ -25,4 +25,4 @@ Este es un pequeño curso semidirigido sobre análisis de diversidad biológica,
 
 ## Autor
 
-* Juan D. Vásquez-Restrepo ([dvasquez@princeton.edu)
+* Juan D. Vásquez-Restrepo (dvasquez@princeton.edu)
