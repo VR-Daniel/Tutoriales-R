@@ -1,10 +1,10 @@
 # Análisis de diversidad biológica usando R
 
-¡Un pequeño mini curso de análisis de diversidad biológica, en español!
+¡En español!
 
 ## Descripción
 
-Este es un pequeño mini curso semidirigido de análisis de diversidad biológica, en el que abordaremos los fundamentos teóricos y prácticos detrás de los análisis de diversidad, los índices, estimadores, curvas de acumulación y rarefacción, diversidades verdaderas, y perfiles de diversidad.
+Este es un pequeño curso semidirigido sobre análisis de diversidad biológica, en el que abordaremos los fundamentos teóricos y prácticos detrás de los análisis de diversidad: índices, estimadores, curvas de acumulación y rarefacción, diversidades verdaderas y perfiles de diversidad.
 
 ## Partes
 
@@ -25,4 +25,4 @@ Este es un pequeño mini curso semidirigido de análisis de diversidad biológic
 
 ## Autor
 
-* Juan D. Vásquez-Restrepo ([@microteiido](https://twitter.com/microteiido))
+* Juan D. Vásquez-Restrepo ([dvasquez@princeton.edu)
