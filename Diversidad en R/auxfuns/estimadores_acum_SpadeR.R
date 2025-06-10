@@ -9,7 +9,7 @@ if (length(faltantes) > 0) {
 
 # --- Carga de función estimadores_SpadeR desde GitHub (modifica la URL) ---
 tryCatch({
-  source("D:/Daniel/Desktop/estimadores_SpadeR.R")  # <-- CAMBIA ESTA URL
+  source("https://raw.githubusercontent.com/VR-Daniel/Tutoriales-R/refs/heads/main/Diversidad%20en%20R/auxfuns/estimadores_SpadeR.R")
 }, error = function(e) {
   stop("No se pudo cargar la función estimadores_SpadeR desde GitHub")
 })
