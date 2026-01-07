@@ -10,7 +10,7 @@ En esta sección subiré algunos tutoriales relacionados al análisis de datos e
 
 ### Parte I
 
-[Patrones taxonómicos, filogenéticos y geográficos](https://vr-daniel.github.io/Tutoriales-R/Ecología%20filogenética%20de%20comunidades/docs/PhyloComm-I.html)
+[Patrones taxonómicos, geográficos y filogenéticos](https://vr-daniel.github.io/Tutoriales-R/Ecología%20filogenética%20de%20comunidades/docs/PhyloComm-I.html)
 
 ## Requisitos
 
